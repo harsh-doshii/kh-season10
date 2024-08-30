@@ -9,7 +9,7 @@ export default function MovieVideo() {
     videoSource:
       "https://utfs.io/f/37649495-61a8-4c39-8bb0-0718420ed378-hix7di.mp4",
     imageString:
-      "https://image.tmdb.org/t/p/original/r7DuyYJ0N3cD8bRKsR5Ygq2P7oa.jpg",
+      "https://utfs.io/f/0f3ca96f-9c5e-4f17-84ef-4572ea5c0075-b94xxv.JPG",
     release: 2023,
     category: "recent",
     youtubeString: "https://www.youtube.com/embed/GVPzGBvPrzw",
