@@ -9,7 +9,7 @@ export default function PreviousSeasons() {
       age: 16,
       duration: 0,
       imageString:
-        "https://image.tmdb.org/t/p/original/y4PDksvxM05sNxacoU8xIYITCDA.jpg",
+        "https://utfs.io/f/f8c69287-cfdf-4d28-9f3f-71016a4f6a6b-1x998c.JPG",
       overview:
         "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
       release: 1999,
@@ -23,7 +23,7 @@ export default function PreviousSeasons() {
       age: 12,
       duration: 2.2,
       imageString:
-        "https://image.tmdb.org/t/p/original/nGxUxi3PfXDRm7Vg95VBNgNM8yc.jpg",
+        "https://utfs.io/f/9bb997a1-14c9-47be-968d-29353b17e939-1xf5x6.JPG",
       overview:
         "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
       release: 2023,
