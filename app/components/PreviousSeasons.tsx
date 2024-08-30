@@ -82,7 +82,7 @@ export default function PreviousSeasons() {
                 height={800}
                 className="absolute w-full h-full -z-10 rounded-lg object-cover"
               />
-              <MovieCard title={movie.title} overview={movie.overview} />
+              {/* <MovieCard title={movie.title} overview={movie.overview} /> */}
             </div>
           </div>
         </div>
