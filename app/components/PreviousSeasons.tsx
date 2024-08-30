@@ -39,7 +39,7 @@ export default function PreviousSeasons() {
       age: 0,
       duration: 1.45,
       imageString:
-        "https://image.tmdb.org/t/p/original/askg3SMvhqEl4OL52YuvdtY40Yb.jpg",
+        "https://utfs.io/f/8a5715b2-43d0-4ba7-92f4-346a8fd2815a-1xegpp.HEIC",
       overview:
         "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
       videoSource: "",
@@ -53,7 +53,7 @@ export default function PreviousSeasons() {
       age: 12,
       duration: 0,
       imageString:
-        "https://image.tmdb.org/t/p/original/cTQYB39EwM01fl9b9KpNUgZfOsT.jpg",
+        "https://utfs.io/f/bc7bc4a5-3047-487a-90f7-eafcefd4f819-1x989v.JPG",
       overview:
         "Adrian Monk was once a rising star with the San Francisco Police Department, legendary for using unconventional means to solve the department's most baffling cases. But after the tragic (and still unsolved) murder of his wife Trudy, he developed an extreme case of obsessive-compulsive disorder. Now working as a private consultant, Monk continues to investigate cases in the most unconventional ways.",
       videoSource: "",
