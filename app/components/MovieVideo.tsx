@@ -30,10 +30,12 @@ export default function MovieVideo() {
           {data?.title}
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Error
-          eveniet sapiente assumenda magni illo enim numquam libero explicabo
-          quibusdam corporis voluptatem at voluptates impedit nostrum aliquid
-          quasi vero, aperiam nisi.
+          It all started on 15th September 2014 when two high school
+          sweethearts, Kashish and Harsh, began a journey that would span
+          continents, time zones, and countless adventures. From shy smiles to
+          heartfelt promises, this is where their story began—a tale of firsts,
+          of growing up together, and discovering that true companionship knows
+          no distance.
         </p>
       </div>
     </div>

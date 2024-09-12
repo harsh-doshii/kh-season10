@@ -5,7 +5,7 @@ export default function PreviousSeasons() {
   const data = [
     {
       id: 10,
-      title: "Family Guy",
+      title: "Concerts",
       age: 16,
       duration: 0,
       imageString:
@@ -19,7 +19,7 @@ export default function PreviousSeasons() {
     },
     {
       id: 7,
-      title: "Spider-Man: Across the Spider-Verse",
+      title: "Cats",
       age: 12,
       duration: 2.2,
       imageString:
@@ -34,7 +34,7 @@ export default function PreviousSeasons() {
 
     {
       id: 8,
-      title: "Coco",
+      title: "Festivals",
       release: 2017,
       age: 0,
       duration: 1.45,
@@ -48,7 +48,7 @@ export default function PreviousSeasons() {
     },
     {
       id: 9,
-      title: "Monk",
+      title: "Geography",
       release: 2002,
       age: 12,
       duration: 0,
@@ -82,7 +82,7 @@ export default function PreviousSeasons() {
                 height={800}
                 className="absolute w-full h-full -z-10 rounded-lg object-cover"
               />
-              {/* <MovieCard title={movie.title} overview={movie.overview} /> */}
+              <MovieCard title={movie.title} overview={movie.overview} />
             </div>
           </div>
         </div>
