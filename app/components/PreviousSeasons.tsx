@@ -11,7 +11,7 @@ export default function PreviousSeasons() {
       imageString:
         "https://utfs.io/f/f8c69287-cfdf-4d28-9f3f-71016a4f6a6b-1x998c.JPG",
       overview:
-        "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+        "Music brings Harsh and Kashish even closer in this episode. From singing along at Coldplay, The Local Train, and Anuv Jain’s concerts to sharing a video call during the Eras tour, their love for live music knows no bounds. With dreams of attending the Eras tour together and maybe even seeing Diljit live, this episode is a symphony of memories and melodies.",
       release: 1999,
       videoSource: "",
       category: "show",
@@ -25,7 +25,7 @@ export default function PreviousSeasons() {
       imageString:
         "https://utfs.io/f/9bb997a1-14c9-47be-968d-29353b17e939-1xf5x6.JPG",
       overview:
-        "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+        "In this episode, Harsh and Kashish's love for all things feline takes center stage. From the days of feeding and playing with their beloved neighborhood cat to showering each other with cat-themed gifts and reels, their shared affection for cats is woven into their story. A heartwarming chapter of purrs, paws, and playful moments.",
       release: 2023,
       videoSource: "",
       category: "movie",
@@ -41,7 +41,7 @@ export default function PreviousSeasons() {
       imageString:
         "https://utfs.io/f/8a5715b2-43d0-4ba7-92f4-346a8fd2815a-1xegpp.HEIC",
       overview:
-        "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+        "In this festive episode, Harsh and Kashish look back on their shared celebrations since 2014, from the colors of Holi to the lights of Diwali, the joy of Ganesh Chaturthi, and the warmth of Christmas. But it's Navratri that holds a special place in their hearts, where the Garba beats bring them together for their favorite tradition—dancing through the night.",
       videoSource: "",
       category: "movie",
       youtubeString: "https://www.youtube.com/embed/xlnPHQ3TLX8",
